@@ -1,0 +1,67 @@
+h1{
+    color: brown;
+}
+
+
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-between;
+}
+
+.mid{
+    background-color: red;
+    display:flex;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+
+.camel{
+    background-color: yellow;
+    display:flex;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+
+
+.chameleon{
+    background-color: blue;
+    display:flex;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+
+.pigeon{
+    background-color: silver;
+    display:flex;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+
+
+.teddy{
+    background-color: sandybrown;
+    display:flex;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.panda{
+    background-color: pink;
+    display:flex;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+
+.cicada{
+    background-color: sandybrown;
+    display:flex;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+body{
+    background-color:#808080;
+}
